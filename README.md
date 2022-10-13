@@ -19,6 +19,10 @@ David Tusia
 - <code>nodemon</code> - Start server
 - Endpoints:
   - <code>/signup</code>
+    - Returns:
+       
+      <img src="images/lab07-endpoint-signup.jpg" alt="drawing" width="400"/>
+  
   - <code>/signin</code>
   - <code>/users</code>
   - <code>/secret</code>
