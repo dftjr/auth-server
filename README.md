@@ -2,22 +2,31 @@
 
 ## Deployment Test
 
+- [Test Report](https://github.com/dftjr/bearer-auth/actions)
 - [Heroku](https://dftjr-bearer-auth.herokuapp.com/)
 
-### Author: John Cokos
+### Author: 
+
+David Tusia
 
 ### Setup
-.env requirements
-PORT - Port Number
+
+- <code>.env</code> - Required
+  - <code>PORT</code> - Port Number
+
 ### Running the app
 
-- Unit Tests: <code>npm test</code>
-
-### Returns Object
+- <code>nodemon</code> - Start server
+- Endpoints:
+  - <code>/signup</code>
+  - <code>/signin</code>
+  - <code>/users</code>
+  - <code>/secret</code>
 
 ### Tests
 
 - Unit Tests: <code>npm test</code>
 
 ### UML
-(Created with diagrams)
+
+<code>place UML here</code>
